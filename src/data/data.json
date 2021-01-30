@@ -1,23 +1,21 @@
 {
     "Header": {
 
-        "title": "BandAid",
-        "paragraph": "Independent Support"
+        "title": " ",
+        "paragraph": " "
 
     },
     "About": {
-        "paragraph": "BandAid-AB is an independent resource for companies or people looking for a qualified partner to discuss different steel belt related topics or issues with. We can give a “second opinion” when you feel that is needed. We can help inspecting belts at site or via camera and suggest repair actions or help to improve operations with new design ideas..",
+        "paragraph2": "On February 1, 2021 we are launching a new company for supporting the process industry in terms of conveyor belt usage. At this point we’re focusing mainly on solid and perforated Steel Belts and the required support equipment necessary for taking best advantage of the steel belts.",
+        "paragraph": "BandAid-AB is an independent resource for companies or people looking for a qualified partner to discuss different steel belt related topics or issues with. We can give a “second opinion” when you feel that is needed. We can help inspecting belts at site or via camera and suggest repair actions or help to improve operations with new design ideas.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Production",
+            "Field-service",
+            "Sales",
+            "Marketing"
         ],
         "Why2": [
-            "Good bands",
-            "Nice outfits",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+
         ]
     },
     "Services": [{
@@ -105,12 +103,10 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "Stensätragatan 19, Sandviken 811 52, Sweden",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "email": "info@bandaid-ab.com",
+        "facebook": "fb.com"  
     },
     "Features": [{
             "icon": "fa fa-comments-o",

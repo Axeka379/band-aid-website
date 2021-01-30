@@ -11,7 +11,7 @@ export class Contact extends Component {
                 <div className="section-title">
                   <h2>Get In Touch</h2>
                   <p>
-                    Send and email and we will be in touch as soon as possible!
+                    Do not hesitate to contact BandAid-AB and discuss what’s up with your belt, steel or not.
                   </p>
                 </div>
                 <form name="sentMessage" id="contactForm" noValidate>
@@ -97,16 +97,6 @@ export class Contact extends Component {
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
-                      </a>
-                    </li>
                   </ul>
                 </div>
               </div>
@@ -116,10 +106,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
+              &copy; All rights reserved
             </p>
           </div>
         </div>
